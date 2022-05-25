@@ -1,3 +1,54 @@
 {
-  "users": []
+  "users": [],
+  "products": [
+    {
+      "id": 1,
+      "name": "suco-de-morango",
+      "price": 6.0,
+      "image": "./imgs/suco-de-morango"
+    },
+    {
+      "id": 2,
+      "name": "copo-de-refri",
+      "price": 5.0,
+      "image": "./imgs/copo-de-refri"
+    },
+    {
+      "id": 3,
+      "name": "batata-completa",
+      "price": 22.0,
+      "image": "./imgs/batata-completa"
+    },
+    {
+      "id": 4,
+      "name": "batata-individual",
+      "price": 7.0,
+      "image": "./imgs/batata-individual"
+    },
+    {
+      "id": 5,
+      "name": "burguer-kenzie",
+      "price": 20.0,
+      "image": "./imgs/burguerKenzie"
+    },
+    {
+      "id": 6,
+      "name": "kenzie-frango",
+      "price": 18.0,
+      "image": "./imgs/kenzie-frango"
+    },
+    {
+      "id": 7,
+      "name": "milkShakeKenzie",
+      "price": 13.0,
+      "image": "./imgs/milkShakeKenzie"
+    },
+    {
+      "id": 8,
+      "name": "jarra-de-suco",
+      "price": 12.0,
+      "image": "./imgs/jarra-de-suco"
+    },
+    { "id": 9, "name": "burguer", "price": 14.0, "image": "./imgs/burguer" }
+  ]
 }

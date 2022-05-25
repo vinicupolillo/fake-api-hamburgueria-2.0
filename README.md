@@ -25,3 +25,5 @@ POST /login <br/>
 POST /signin
 
 Qualquer um desses 2 endpoints pode ser usado para realizar login com um dos usuários cadastrados na lista de "Users"
+
+https://hamburgueria-json-server-2.herokuapp.com/
